@@ -1,0 +1,17 @@
+-------------------------------------------------------------------------------
+Test set: com.codecool.processwatch.test.os.TestOsProcessSource
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 0.002 sec <<< FAILURE!
+com.codecool.processwatch.test.os.TestOsProcessSource.testNoIllegalAccess()  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at java.base/java.util.Objects.requireNonNull(Objects.java:221)
+	at com.codecool.processwatch.test.os.TestOsProcessSource.testNoIllegalAccess(TestOsProcessSource.java:19)
+
+com.codecool.processwatch.test.os.TestOsProcessSource.testProcessesAreFound()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.codecool.processwatch.test.os.TestOsProcessSource.testProcessesAreFound(TestOsProcessSource.java:25)
+
+com.codecool.processwatch.test.os.TestOsProcessSource.testTheresAnInit()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.codecool.processwatch.test.os.TestOsProcessSource.testTheresAnInit(TestOsProcessSource.java:32)
+
