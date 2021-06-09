@@ -46,6 +46,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+![68747470733a2f2f692e6962622e636f2f5454566774306a2f50726f636573732d77617463682e706e67-1](https://user-images.githubusercontent.com/59876357/121336543-4e9f4b00-c924-11eb-886c-1efe2dfa0aa4.png)
+
 
 This is a showcase project. A system monitor application which is used to provide information about running processes on a computer as well as having the ability to terminate them.
 
